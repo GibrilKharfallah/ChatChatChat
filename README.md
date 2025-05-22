@@ -1,4 +1,4 @@
-# 🔨 ChatChatChat
+# 📱 ChatChatChat
 
 A real-time messaging application that enables users to connect, communicate, and interact within different chat channels. Built with **Node.js, Express, and Socket.IO**, the backend ensures seamless message delivery, while **MongoDB** handles data storage.  
 
@@ -47,9 +47,12 @@ To run unit tests:
 npm test
 ```  
 
-## 📌 Contributing  
+## 📝 License
 
-Feel free to **fork** this repository, make improvements, and submit a **pull request**!  
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+Feel free to contribute, modify the code, or apply it to other datasets for experimentation. 
 
 ## 📩 Contact  
 
